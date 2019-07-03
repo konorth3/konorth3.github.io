@@ -1,0 +1,23 @@
+
+h1 {
+  color: white;
+  text-align: center;
+}
+h2 {
+  color: white;
+  text-align: center;
+}
+nav{
+  color: blue;
+  text-align: center;
+}
+body {
+  background-color: black;
+}
+p {
+  color: white;
+  text-align: left;
+}
+.date { font-size: 1.5em; }
+.date ruby { background: #0078c9; color: #fff; }
+.date rt { background: #a0dae8; color: #000; padding: 2px; }
