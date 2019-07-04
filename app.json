@@ -1,0 +1,16 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "konorth3.github.io",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
